@@ -6,6 +6,6 @@ title: "À faire..."
 Ma liste des choses à faire pendant ces vacances
 
 - tester Scribouilli
-- cuisiner, siester, placer
+- cuisiner, siester, plager
 - lire, lire, et relire
 - ne rien faire 
