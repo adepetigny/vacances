@@ -1,6 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 ---
-# L'Échappée Belle
+# Quelques notes de vacances
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+**Note : ** Ce mini site a été créé en moins de 15 minutes avec l'aide de Scribouilli.
+
+![une image de la plage](/images/signal-2023-05-16-19-12-53-976.jpg)
+
+Je suis actuellement dans un petit coin de Bretagne, un lieu où j'ai passé une partie de mes vacances d'enfance et où j'ai plaisir à revenir. 
